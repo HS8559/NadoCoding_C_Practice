@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_basic(void)
 {
 	int age = 20;
 	float height = 173.1234567f;
