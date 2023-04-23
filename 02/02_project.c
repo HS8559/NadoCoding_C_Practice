@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_02project(void)
 {
 	char name[256];
 	int age;
