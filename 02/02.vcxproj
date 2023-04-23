@@ -128,8 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02_Basic.cpp" />
-    <ClCompile Include="02_project.cpp" />
+    <ClCompile Include="02_Basic.c" />
+    <ClCompile Include="02_project.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
