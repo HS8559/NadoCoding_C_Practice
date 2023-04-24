@@ -132,6 +132,9 @@
     <ClCompile Include="02_project.c" />
     <ClCompile Include="03_Loop.c" />
     <ClCompile Include="03_Project.c" />
+    <ClCompile Include="04_Condition.c" />
+    <ClCompile Include="04_Project.c" />
+    <ClCompile Include="04_Self-Check.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
