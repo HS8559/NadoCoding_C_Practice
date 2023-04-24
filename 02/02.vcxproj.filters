@@ -21,5 +21,11 @@
     <ClCompile Include="02_project.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03_Loop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03_Project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
