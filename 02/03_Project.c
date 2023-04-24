@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_03Project(void)
 {
 	int floor = 5;
 
