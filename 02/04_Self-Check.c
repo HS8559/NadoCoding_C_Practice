@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_04Self-Check(void)
+int main_04SelfCheck(void)
 {
 	int cf;
 	int sw;
