@@ -81,5 +81,14 @@
     <ClCompile Include="09_SelfCheck.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10_Project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10_SelfCheck.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
