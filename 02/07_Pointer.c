@@ -12,7 +12,7 @@ void swap_addr(int *num1, int *num2);
 void printArrC(int arrC[], int num);
 void changeArr(int *arrC);
 
-int main(void)
+int main_07pointer(void)
 {
 	//int A = 1;
 	//int B = 2;

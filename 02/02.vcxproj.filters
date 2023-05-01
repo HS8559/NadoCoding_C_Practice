@@ -57,5 +57,11 @@
     <ClCompile Include="07_Pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="07_Project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_selfCheck.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
