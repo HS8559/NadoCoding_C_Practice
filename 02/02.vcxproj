@@ -144,6 +144,9 @@
     <ClCompile Include="07_Pointer.c" />
     <ClCompile Include="07_Project.c" />
     <ClCompile Include="07_selfCheck.c" />
+    <ClCompile Include="08_multiArray.c" />
+    <ClCompile Include="08_Project.c" />
+    <ClCompile Include="08_SelfCheck.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

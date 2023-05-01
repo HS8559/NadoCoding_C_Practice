@@ -63,5 +63,14 @@
     <ClCompile Include="07_selfCheck.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08_multiArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_SelfCheck.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
